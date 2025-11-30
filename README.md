@@ -59,6 +59,7 @@ social-media-agent/
 │
 ├── streamlit_app.py       # Main application
 ├── requirements.txt       # Dependencies
+├── architecture.md        # Architecture
 ├── README.md              # Project documentation
 └── .env (not included, include and add your API keys while you run locally)    # API keys and secrets
 ```
